@@ -23,4 +23,4 @@ Eğer aradığınız soruların cevapları GitHub docs'ta yok ise Google'lama be
 7. Merge conflict nedir?
 * İki kişi aynı dosyayı ve aynı satırı değiştirirse ve git otomatik olarak merge edemezse bu durumda conflict yani çakışma olacaktır.
 8. Merge conflict'i nasıl çözeriz?
-* --
+* -- değs
